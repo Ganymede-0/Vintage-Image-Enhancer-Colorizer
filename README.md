@@ -48,16 +48,15 @@ Link: https://www.kaggle.com/datasets/marcinrutecki/old-photos
 - **Pre-processing matters:** Feeding raw, noisy images into a GAN often results in hallucinated artifacts. The adaptive pipeline proved that classical CV pre-processing significantly stabilizes deep learning colorization.
 - **Context is key:** Blanket applying CLAHE or sharpening to all images ruins high-quality inputs. The tier-based routing ensures the right mathematical operations are applied to the right images.
 
-## Visual Examples
+## Visual Examples For The 2end Approach:
 
-![old_photo_03](https://github.com/user-attachments/assets/e3f537a8-de7a-4ee6-b282-965da2909868)
-
-![processed_colorized_Low_old_photo_03](https://github.com/user-attachments/assets/47cd66f4-94bc-48c2-aea3-69e780c8d5a6)
-
-![old_photo_28](https://github.com/user-attachments/assets/3c014843-d515-4311-b605-6a9a7dee049f)
-
-![processed_colorized_Low_old_photo_28](https://github.com/user-attachments/assets/abdf741d-7cec-45b3-b67b-9a0dcea26c61)
-
+<img width="1899" height="590" alt="image" src="https://github.com/user-attachments/assets/28b47d9b-0986-4262-b70f-c356dd8958b2" />
+<img width="1990" height="383" alt="image" src="https://github.com/user-attachments/assets/d5cf293c-99ce-4596-b907-da0871d4bd5e" />
+<img width="1990" height="358" alt="image" src="https://github.com/user-attachments/assets/f68d2897-4a5b-4ff5-8219-5b0fb578c385" />
+<img width="1848" height="590" alt="image" src="https://github.com/user-attachments/assets/1326d20c-a1dc-4635-a6f9-44ed4839541d" />
+<img width="1990" height="523" alt="image" src="https://github.com/user-attachments/assets/0e539e87-a83b-4a69-ba7f-2bba1c203e87" />
+<img width="1851" height="590" alt="image" src="https://github.com/user-attachments/assets/27e3b983-4ba6-4eab-adb0-906d112d9286" />
+<img width="1983" height="612" alt="image" src="https://github.com/user-attachments/assets/cf88cbf9-8f40-4c60-80da-70150608b901" />
 
 
   
